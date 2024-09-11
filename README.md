@@ -11,7 +11,7 @@ Maulik176/Maulik176 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://visitor-badge.laobi.icu/badge?page_id=webdevSandy.webdevSandy)
-[![Github](https://img.shields.io/github/followers/Maulik176?label=Follow&style=social)](https://github.com/webdevSandy)
+[![Github](https://img.shields.io/github/followers/webdevSandy?label=Follow&style=social)](https://github.com/webdevSandy)
 
 ## ✉️ Find me on: 
 
