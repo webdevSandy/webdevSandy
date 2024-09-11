@@ -1,8 +1,8 @@
-# HELLO WORLD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
+[# HELLO WORLD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
 
-- 🔭 I’m Maulik Ranadive
-- 👀 I’m an Associate Software Engineer Intern  at Aavenir.
-- 💻 I’m currently pursuing Computer Science and Engineering from Ahmedabad University.
+- 🔭 I’m Sandy Chaudhary(Sandeep Kumar)
+- 👀 I’m a Web Developer.
+- 💻 I’m currently pursuing Computer Science and Engineering from AKTU University.
 - 🌱 I like doing Competitive Programming and writing content.
 - :slightly_smiling_face: I’m looking to collaborate on projects related to Web development :)
 
@@ -10,7 +10,7 @@
 Maulik176/Maulik176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://visitor-badge.laobi.icu/badge?page_id=Maulik176.Maulik176)
+![](https://visitor-badge.laobi.icu/badge?page_id=webdevSandy.webdevSandy)
 [![Github](https://img.shields.io/github/followers/Maulik176?label=Follow&style=social)](https://github.com/webdevSandy)
 
 ## ✉️ Find me on: 
@@ -109,3 +109,4 @@ You can click the Preview link to take a look at your changes.
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Maulik176/count.svg" />
 </p>
+](url)
