@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ## ✉️ Find me on: 
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />](mailto:contact.sandychaudhary@gmail.com)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://maulik-ranadive-portfolio.netlify.app/)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://webdevsandy.vercel.app/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/webdevSandy/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sandy_chaudhary_._/)
 
