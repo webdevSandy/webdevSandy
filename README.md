@@ -97,7 +97,7 @@ You can click the Preview link to take a look at your changes.
 ## My Github Stats:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdevSandy&theme=radical" width="700"/>
-<img src="https://github-profile-trophy.vercel.app/?username=webdevSandy&margin-w=5&theme=radical" width="700"/>
+<img src="https://github-profile-trophy.vercel.app/?username=webdevSandy&margin-w=5&theme=radical" width="500"/>
 <!--   https://github-profile-trophy.vercel.app/?username={username}&theme={theme_name} -->
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webdevSandy&theme=radical)
