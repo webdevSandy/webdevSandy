@@ -1,39 +1,62 @@
-[# HELLO WORLD <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
-
-- 🔭 I’m Sandy Chaudhary(Sandeep Kumar)
-- 👀 I’m a Web Developer.
-- 💻 I’m currently pursuing Computer Science and Engineering from AKTU University.
-- 🌱 I like doing Competitive Programming and writing content.
-- :slightly_smiling_face: I’m looking to collaborate on projects related to Web development :)
-
-<!---
-Maulik176/Maulik176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 ![](https://visitor-badge.laobi.icu/badge?page_id=webdevSandy.webdevSandy)
 [![Github](https://img.shields.io/github/followers/webdevSandy?label=Follow&style=social)](https://github.com/webdevSandy)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=30&color=2AF7E0&duration=4000&lines=Hey+There!;I'm+Sandy+Chaudhary.;I'm+a+Web+Developer.;" />
+</h1>
+<h3 align="center">A passionate Web Developer from  Jhansi, India</h3>
+<br/>
 
-## ✉️ Find me on: 
+
+
+<div align="center">
+  
+🔭 I’m ***Sandy Chaudhary(Sandeep Kumar)***.
+  
+🌱🌱 I’m currently learning ***Node.JS***
+
+💻 I’m recently Passed B.Tech CSE from AKTU University, Lucknow.
+ 
+:slightly_smiling_face: I’m looking to collaborate on projects related to Web development :)
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />](mailto:contact.sandychaudhary@gmail.com)
-[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://webdevsandy.vercel.app/)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/webdevSandy/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/sandy_chaudhary_._/)
+[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"/>](https://webdevsandy.vercel.app/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />](https://www.linkedin.com/in/webdevSandy/)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />](https://www.instagram.com/sandy_chaudhary_._/)
+ </div>
+ 
+<!---
+webdevSandy/webdevSandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
+<hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-
-# 🛠️ Tech Stack
-
-## Languages
-
+### Languages
 <p align="center">
   <a href="https://skillicons.dev" style='align-content: space-between;'>
     <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python&perline=8" style="text-indent: 5em; " />
   </a>
 </p>
 
-## Frameworks and Libraries
+<hr/>
 
+
+
+
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=webdevSandy&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=330 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=webdevSandy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=webdevSandy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+<br/><br/>
+<hr/>
+
+## Frameworks and Libraries
 
 ### Frontend
 <p float="left">
@@ -45,7 +68,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Backend
 
-<p float="left">
+<p float="right">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </p>
 
@@ -97,16 +120,16 @@ You can click the Preview link to take a look at your changes.
 ## My Github Stats:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdevSandy&theme=radical" width="700"/>
-<img src="https://github-profile-trophy.vercel.app/?username=webdevSandy&margin-w=5&theme=radical" width="500"/>
+<img src="https://github-profile-trophy.vercel.app/?username=webdevSandy&margin-w=5&theme=radical" width="700"/>
 <!--   https://github-profile-trophy.vercel.app/?username={username}&theme={theme_name} -->
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webdevSandy&theme=radical)
 
 <!--- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/> --->
-<a href=#><img src="contributions.svg"></a>
-![Snake animation](https://github.com/webdevSandy/webdevSandy/blob/output/github-contribution-grid-snake.svg)
+<a href=#><img src="contributions.svg">
+![Snake animation](https://github.com/webdevSandy/webdevSandy/blob/output/github-contribution-grid-snake.svg)</a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Maulik176/count.svg" />
 </p>
-](url)
+
