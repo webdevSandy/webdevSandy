@@ -109,14 +109,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
-
-### Socials
-
-[<img src="https://img.shields.io/badge/-Instagram-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/user4360g/)
-[<img src ="https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white" />](https://www.codingninjas.com/studio/profile/49bf12a7-55b5-4d55-a803-a59f69db7b13)
-[<img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />](https://leetcode.com/user4360g/)
-[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/maulik_r1?hr_r=1)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/MaulikRanadive2)
 ## My Github Stats:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=webdevSandy&theme=radical" width="700"/>
