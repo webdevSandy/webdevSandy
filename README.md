@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 ### Languages
 <p align="center">
   <a href="https://skillicons.dev" style='align-content: space-between;'>
-    <img src="https://skillicons.dev/icons?i=html,css,js, react.js, typescript,python&perline=8" style="text-indent: 5em; " />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python&perline=8" style="text-indent: 5em; " />
   </a>
 </p>
 
