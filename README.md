@@ -118,8 +118,6 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=webdevSandy&theme=radical)
 
 <!--- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="left"/> --->
-<a href=#><img src="contributions.svg">
-![Snake animation](https://github.com/webdevSandy/webdevSandy/blob/output/github-contribution-grid-snake.svg)</a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Maulik176/count.svg" />
